@@ -28,4 +28,4 @@ elif score >= 70 and score <= 79:
 elif score >= 50 and score <= 69:
     print ("PASS")
 else:
-    print("You did not successfully complete this assessment")
+    print("Hello World")
